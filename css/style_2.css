@@ -1225,6 +1225,7 @@ header .banner .slide-2d .item-list li.item9 {
 	margin-top:-60px;
 	overflow: hidden;
 	position: relative;
+  padding-left:100px;
 }
 .teamPerson img{
 	float: left;
@@ -1236,7 +1237,7 @@ header .banner .slide-2d .item-list li.item9 {
     float: left;
     width: 600px;
     position: absolute;
-    left: 231px;
+    left: 331px;
     height: 222px;
     bottom: 111px;
     padding-top: 43px;
@@ -1383,4 +1384,8 @@ header .banner .slide-2d .item-list li.item9 {
 	position: relative;
 	top:30px;
 	border:3px solid rgba(147,191,33,1);;
+}
+.teamPersonContent a{
+  color: #fff;
+  cursor: pointer;
 }
